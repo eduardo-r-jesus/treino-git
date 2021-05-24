@@ -1,5 +1,6 @@
 # ignore ALL .log files
-README.md
+*.file
+!index.html
 
 # ignore ALL files in ANY directory named temp
 temp/
